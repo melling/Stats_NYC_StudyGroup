@@ -16,6 +16,8 @@ drive.mount(‘/content/gdrive’)
 
 ## Discussed Discrete Distributions
 
+Discussion based on Chapter 2 of ThinkStats: https://greenteapress.com/thinkstats2/html/thinkstats2003.html
+
 ```
 [1, 2, 3, 5, 5, 9, 10, 22, 22, 15,15,15, 15, 15, 15, 15, 15, 9, 9]
 ```
