@@ -2,10 +2,13 @@
 
 - https://drive.google.com
 
+### Code to be placed in Jupyter Cell
 ```python
 from google.colab import drive
 drive.mount(‘/content/gdrive’)
 ```
+
+### View the Files in Mounted Drive
 
 ```python
 ! ls gdrive/MyDrive/
