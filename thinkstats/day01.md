@@ -18,7 +18,7 @@ Let's ask some questions about this distribution.
 
 - How many times does 15 occur? 8
 - How many times does 6 occur?  0
-- What are all the distinct values in the list?
+- What are all the distinct values in the list? [1, 2, 3, 5, 9, 10, 22, 15]
 
 ### Use Python to Find Answers
 
